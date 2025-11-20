@@ -1,4 +1,5 @@
-# Applied Machine Learning Project 
+# Global Increase in Average Temperature Due to Agro-Industrial Activities 
+## An Applied Machine Learning Project 
 
 This project contains the main stages of a Machine Learning applied project. The current study aims to implement an ML-based approach to predict global average temperature increases due to distinct agro-industrial activities.  
 
